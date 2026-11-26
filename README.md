@@ -26,11 +26,10 @@ validation strategy, reproducibility, clinical relevance, analytical depth.
 Categories: 0–4 Low, 5–8 Moderate, 9–12 High.
 
 ## Citation
-If you use this framework or dataset, please cite:
-> [Authors]. [Title]. [Journal] ([Year]). doi:[paper DOI]
+This review is under review in Information Fusion.
 
 ## License
 Code: MIT. Data tables: CC BY 4.0.
 
 ## Contact
-[Name], [Institution] — [email]
+Mingyang Jiang, The First Affiliated Hospital of Guangxi Medical University — 202120576@sr.gxmu.edu.cn
