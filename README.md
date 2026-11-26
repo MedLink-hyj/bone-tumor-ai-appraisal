@@ -21,8 +21,8 @@ integrity checks: domain scores must sum to each study's total, and column sums
 must equal 438. Baseline categories: Low 35 / Moderate 29 / High 15.
 
 ## Appraisal framework (summary)
-Six domains scored 0–2 (maximum 12): data representativeness, sample size,
-validation strategy, reproducibility, clinical relevance, analytical depth.
+Six domains scored 0–2 (maximum 12): Data Representativeness (DP), Sample Size (SS),
+Validation Strategy (VS), Reproducibility (RP), Clinical Relevance (CR), Analytical Depth (AD).
 Categories: 0–4 Low, 5–8 Moderate, 9–12 High.
 
 ## Citation
