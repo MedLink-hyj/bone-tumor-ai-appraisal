@@ -1,0 +1,16 @@
+﻿Analysis,Exact agreement (%),Reclassified n,Unweighted kappa,Linear weighted kappa,Quadratic weighted kappa,Spearman rho
+Cutoff: primary (<=4 / 5-8 / >=9),100.0,0,1.0,1.0,1.0,1.0
+Cutoff: alternative A (Low <=3),82.1,14,0.719,0.765,0.823,1.0
+Cutoff: alternative B (High >=10),93.6,5,0.896,0.914,0.936,1.0
+"Cutoff: alternative C (High >=8, lenient)",91.0,7,0.862,0.894,0.927,1.0
+"Cutoff: alternative D (Low <=5, High >=8, lenient)",80.8,15,0.701,0.776,0.85,1.0
+Weighting: validation-weighted (VS x2),97.4,2,0.959,0.967,0.976,0.995
+Weighting: reproducibility-weighted (RP x2),75.6,19,0.611,0.663,0.734,0.999
+Weighting: variance-based (proportional to SD),100.0,0,1.0,1.0,1.0,0.993
+Rule: non-compensatory (VS=0 disqualifying),92.3,6,0.876,0.901,0.929,1.0
+LODO: excluding DR,76.9,18,0.633,0.684,0.753,0.982
+LODO: excluding SS,87.2,10,0.798,0.832,0.875,0.969
+LODO: excluding VS,78.2,17,0.651,0.7,0.765,0.982
+LODO: excluding RP,100.0,0,1.0,1.0,1.0,0.997
+LODO: excluding CR,94.9,4,0.917,0.933,0.951,0.989
+LODO: excluding AD,84.6,12,0.751,0.797,0.851,0.941

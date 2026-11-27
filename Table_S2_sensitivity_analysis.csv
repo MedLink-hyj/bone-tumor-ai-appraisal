@@ -1,0 +1,16 @@
+﻿Analysis,Low n (%),Moderate n (%),High n (%),Agreement with primary (%),Reclassified n,Linear weighted kappa,Spearman rho
+Cutoff: primary (<=4 / 5-8 / >=9),34 (43.6),30 (38.5),14 (17.9),100.0,0,1.0,1.0
+Cutoff: alternative A (Low <=3),20 (25.6),44 (56.4),14 (17.9),82.1,14,0.765,1.0
+Cutoff: alternative B (High >=10),34 (43.6),35 (44.9),9 (11.5),93.6,5,0.914,1.0
+"Cutoff: alternative C (High >=8, lenient)",34 (43.6),23 (29.5),21 (26.9),91.0,7,0.894,1.0
+"Cutoff: alternative D (Low <=5, High >=8, lenient)",42 (53.8),15 (19.2),21 (26.9),80.8,15,0.776,1.0
+Weighting: validation-weighted (VS x2),32 (41.0),32 (41.0),14 (17.9),97.4,2,0.967,0.995
+Weighting: reproducibility-weighted (RP x2),20 (25.6),49 (62.8),9 (11.5),75.6,19,0.663,0.999
+Weighting: variance-based (proportional to SD),34 (43.6),30 (38.5),14 (17.9),100.0,0,1.0,0.993
+Rule: non-compensatory (VS=0 disqualifying),38 (48.7),28 (35.9),12 (15.4),92.3,6,0.901,1.0
+LODO: excluding DR,20 (25.6),48 (61.5),10 (12.8),76.9,18,0.684,0.982
+LODO: excluding SS,25 (32.1),40 (51.3),13 (16.7),87.2,10,0.832,0.969
+LODO: excluding VS,22 (28.2),47 (60.3),9 (11.5),78.2,17,0.7,0.982
+LODO: excluding RP,34 (43.6),30 (38.5),14 (17.9),100.0,0,1.0,0.997
+LODO: excluding CR,35 (44.9),32 (41.0),11 (14.1),94.9,4,0.933,0.989
+LODO: excluding AD,36 (46.2),32 (41.0),10 (12.8),84.6,12,0.797,0.941

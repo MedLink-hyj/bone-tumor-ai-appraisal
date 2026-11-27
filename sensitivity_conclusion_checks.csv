@@ -1,0 +1,16 @@
+﻿Analysis,High < 50%,High <= 1/3,Low is modal category,Low + Moderate >= 2/3
+Cutoff: primary (<=4 / 5-8 / >=9),True,True,True,True
+Cutoff: alternative A (Low <=3),True,True,False,True
+Cutoff: alternative B (High >=10),True,True,False,True
+"Cutoff: alternative C (High >=8, lenient)",True,True,True,True
+"Cutoff: alternative D (Low <=5, High >=8, lenient)",True,True,True,True
+Weighting: validation-weighted (VS x2),True,True,True,True
+Weighting: reproducibility-weighted (RP x2),True,True,False,True
+Weighting: variance-based (proportional to SD),True,True,True,True
+Rule: non-compensatory (VS=0 disqualifying),True,True,True,True
+LODO: excluding DR,True,True,False,True
+LODO: excluding SS,True,True,False,True
+LODO: excluding VS,True,True,False,True
+LODO: excluding RP,True,True,True,True
+LODO: excluding CR,True,True,True,True
+LODO: excluding AD,True,True,True,True
