@@ -62,5 +62,4 @@ Primary distribution (N = 78): **Low 34 (43.6%), Moderate 30 (38.5%), High 14 (1
 ## Reproducing the analysis
 
 ```bash
-pip install -r requirements.txt
 python sensitivity_appraisal.py
