@@ -1,7 +1,7 @@
 # Methodological appraisal of AI studies in bone tumour imaging
 
-Appraisal dataset, operational scoring rubric and sensitivity-analysis code for a
-systematic review of artificial intelligence in bone tumour imaging (N = 79).
+Appraisal dataset, operational scoring rubric, and sensitivity-analysis code for a
+systematic review of artificial intelligence in bone tumour imaging (N = 78).
 
 ## Contents
 | File | Description |
