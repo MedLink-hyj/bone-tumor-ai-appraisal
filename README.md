@@ -18,7 +18,7 @@ python sensitivity_appraisal.py
 ```
 The script prints and writes every count reported in the paper and includes
 integrity checks: domain scores must sum to each study's total, and column sums
-must equal 438. Baseline categories: Low 35 / Moderate 29 / High 15.
+must equal 433. Baseline categories: Low 34 / Moderate 30 / High 14.
 
 ## Appraisal framework (summary)
 Six domains scored 0–2 (maximum 12): Data Representativeness (DP), Sample Size (SS),
