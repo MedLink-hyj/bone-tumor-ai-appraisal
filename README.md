@@ -64,6 +64,3 @@ Primary distribution (N = 78): **Low 34 (43.6%), Moderate 30 (38.5%), High 14 (1
 ```bash
 pip install -r requirements.txt
 python sensitivity_appraisal.py
-Higher category across scenarios: 9-21 studies (11.5-26.9%)
-
-All 15 scenarios match the documented expected counts.
